@@ -26,4 +26,4 @@ class Rectangulo {
 obj.cambiarHeight = 20;
 obj.cambiarWidth = 20;
 obj.area;
-obj.perimetro;
+obj.perimetro; 
